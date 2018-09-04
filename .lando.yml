@@ -1,0 +1,5 @@
+name: chestnut-mountain-hoa
+recipe: drupal8
+config:
+  webroot: web
+  via: nginx
